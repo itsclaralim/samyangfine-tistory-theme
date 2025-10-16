@@ -23,7 +23,7 @@ a:hover{color:var(--syf-red-dark)}
 .btn-outline{border:1px solid #D5D8DC; color:#2B2B2B; padding:10px 16px; border-radius:6px; font-weight:700; display:inline-block}
 .btn-outline:hover{border-color:#C1C7CE; background:#FBFBFB}
 /* Hero */
-.syf-hero{background:#F8FAFC url('GITHUB_HERO_URL') no-repeat right/cover}
+.syf-hero{background:#F8FAFC url('https://raw.githubusercontent.com/itsclaralim/samyangfine-tistory-theme/main/assets/hero-placeholder.jpg') no-repeat right/cover}
 .syf-hero .syf-wrap{min-height:480px; align-items:center}
 .syf-hero h1{font-size:44px; line-height:1.25; margin:0 0 12px; letter-spacing:-0.5px}
 .syf-hero p{color:var(--syf-sub); margin:0 0 24px}
